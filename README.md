@@ -10,17 +10,15 @@
 
 - 🔭 I’m currently working on **Data Mining Project**
 
-- 🌱 I’m currently learning **Machine Learning, AI, Web Scrapping**
-
-
+- 🌱Exploring the world of machine learning, data analysis, and artificial intelligence.
 
 - 💡 Passionate about turning data into actionable insights and building intelligent systems.
 
-- 🌟 Exploring the world of machine learning, data analysis, and artificial intelligence.
+  
 
 - 💻 Coding in Python, R, and Java to solve real-world problems.
 
-- 🔍 Always eager to learn, grow, and collaborate on exciting data-driven projects.
+
 
 - 📊 Let's unlock the potential of data together!
 
