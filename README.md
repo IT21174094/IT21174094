@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tharindu Alahakoon</h1>
 <h3 align="center">📚 BSc in Information Technology | Data Science Enthusiast</h3>
-<br>
 <div align="center">
   <a href="https://1999azzar\\.github.io/it21174094/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
