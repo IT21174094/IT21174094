@@ -2,11 +2,6 @@
 <h1 align="center"> <a href="https://github.com/Aryagm"> <a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>Hi ,I'm Tharindu Alahakoon</h1>
 
 <h3 align="center">📚 BSc in Information Technology | Data Science Enthusiast</h3>
-<div align="center">
-  <a href="https://1999azzar\\.github.io/it21174094/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 
 
